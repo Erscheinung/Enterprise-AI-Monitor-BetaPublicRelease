@@ -10,7 +10,6 @@
 
 <p align="center">A unified AI-powered monitoring solution combining network security analysis, infrastructure prediction, and business process optimization.</p>
 
-![Dashboard Screenshot](docs/dashboard.png)
 
 ## 🌟 Overview
 
